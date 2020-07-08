@@ -1,0 +1,16 @@
+.oculto{
+    display: none;
+}
+.visible{
+    display: block;
+}
+.radioBtns{
+    text-align: center;
+    font-size: larger;
+    color:blue;
+}
+.parrafos{
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+}

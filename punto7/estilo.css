@@ -1,0 +1,19 @@
+.botones{
+    text-align: center;
+}
+.textoPlano{
+    text-align: center;
+    color: black;
+}
+.rojo{
+color: red;
+text-align: center;
+}
+.azul{
+color: blue;
+text-align: center;
+}
+.amarillo{
+text-align: center;
+color: yellow;
+}
